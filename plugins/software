@@ -1,4 +1,4 @@
-# 20170415 *ALL* Plugins that apply on SOFTWARE hive, alphabetical order
+# 20180610 *ALL* Plugins that apply on SOFTWARE hive, alphabetical order
 ahaha
 appcompatflags
 appinitdlls
@@ -65,12 +65,15 @@ psscript
 regback
 removdev
 renocide
+sbs
 schedagent
 secctr
 sfc
 shellexec
 shellext
 shelloverlay
+silentprocessexit
+silentprocessexit_tln
 snapshot
 soft_run
 spp_clients
@@ -88,6 +91,7 @@ trappoll
 uac
 uninstall
 uninstall_tln
+updates
 urlzone
 virut
 volinfocache

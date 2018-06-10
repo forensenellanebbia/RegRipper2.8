@@ -1,9 +1,12 @@
-# 20170415 *ALL* Plugins that apply on SYSTEM hive, alphabetical order
+# 20180610 *ALL* Plugins that apply on SYSTEM hive, alphabetical order
+angelfire
 appcertdlls
 appcompatcache
 appcompatcache_tln
 auditfail
 backuprestore
+bam
+bam_tln
 bthport
 comfoo
 compname
